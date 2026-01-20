@@ -25,5 +25,5 @@ Para utilizar este archivo es necesario tener PostgreSQL instalado en el sistema
 
 - El archivo fue generado utilizando pg_dump con la opción --inserts.
 - Incluye la creación de la base de datos, tablas, claves primarias y foráneas.
-- Cross platform
+
 
